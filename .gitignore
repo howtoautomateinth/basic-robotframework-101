@@ -4,3 +4,4 @@ output.xml
 report.html
 *.png
 *.log
+*.pyc
